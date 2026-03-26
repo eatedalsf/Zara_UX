@@ -1,8 +1,5 @@
 # Zara UX Redesign
 
-**Author:** Eatedal Alfadhel  
-**Project:** Redesigning the dress-shopping journey on Zara.com
-
 ---
 
 ## What This Is
