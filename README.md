@@ -1,6 +1,5 @@
-# Zara UX Redesign — Clickable Prototype
+# Zara UX Redesign
 
-**Course:** UX/UI Design 755-01 · Spring 2026  
 **Author:** Eatedal Alfadhel  
 **Project:** Redesigning the dress-shopping journey on Zara.com
 
